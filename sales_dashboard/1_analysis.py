@@ -1,7 +1,5 @@
 """
 Sales Performance Dashboard — Python Analysis
-Generates: cleaned data, KPIs, and 6 matplotlib/seaborn charts
-Usage: python 1_analysis.py
 """
 
 import pandas as pd
