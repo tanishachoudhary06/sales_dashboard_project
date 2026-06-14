@@ -1,7 +1,5 @@
 """
 Sales Performance Dashboard — Tableau Data Prep
-Exports 6 clean CSV files ready to connect as Tableau data sources
-Usage: python 4_tableau_prep.py
 """
 
 import pandas as pd
