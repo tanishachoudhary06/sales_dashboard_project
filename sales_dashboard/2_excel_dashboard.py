@@ -1,7 +1,5 @@
 """
 Sales Performance Dashboard — Excel Workbook Builder
-Generates a multi-sheet .xlsx with KPIs, pivot tables, and charts
-Usage: python 2_excel_dashboard.py
 """
 
 import pandas as pd
